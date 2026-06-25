@@ -4,6 +4,7 @@ Hola, mi nombre es **Jason Cárdenas**, tengo **18 años** y actualmente curso *
 
 ## 📚 Sobre mí
 
+
 - 🎓 Estudiante de Desarrollo de Software.
 - 💻 Interesado en la programación y la tecnología.
 - 🚀 Aprendiendo nuevas herramientas y lenguajes de programación.
