@@ -6,9 +6,9 @@ Hola, mi nombre es **Jason Cárdenas**, tengo **18 años** y actualmente curso *
 
 
 - 🎓 Estudiante de Desarrollo de Software.
-- 💻 Interesado en la programación y la tecnología.
-- 🚀 Aprendiendo nuevas herramientas y lenguajes de programación.
-- 🎯 Mi objetivo es convertirme en un desarrollador profesional.
+- 💻 Interesado en el area de la salud y querer estudiar laboratorio clinico.
+- 🚀 Aprendiendo nuevas herramientas y lenguajes de programación en el módulo 3.3.
+- 🎯 Mi objetivo es poder graduarme y seguir estudiando.
 
 ## 🛠️ Tecnologías que estoy aprendiendo
 
@@ -26,4 +26,4 @@ Hola, mi nombre es **Jason Cárdenas**, tengo **18 años** y actualmente curso *
 
 ## 📫 Contacto
 
-- Correo: tucorreo@ejemplo.com
+- Correo: Jason1234@gmail.com
